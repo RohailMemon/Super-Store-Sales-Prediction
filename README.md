@@ -1,6 +1,7 @@
 This project predicts sales using historical data with the linear regression model. It includes data cleaning, feature engineering, model evaluation, and visualization.
 
 📌 Key Steps in This Project:
+
 ✔ Data Cleaning – Removing duplicates, handling missing values, and normalizing columns.
 
 ✔ Feature Engineering – Creating revenue, log sales, profit margin, and seasonal trends.
