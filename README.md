@@ -2,6 +2,7 @@ This project predicts sales using historical data with the linear regression mod
 
 📌 Key Steps in This Project:
 ✔ Data Cleaning – Removing duplicates, handling missing values, and normalizing columns.
+
 ✔ Feature Engineering – Creating revenue, log sales, profit margin, and seasonal trends.
 ✔ Model Training – Using Scikit-Learn's Linear Regression for prediction.
 ✔ Evaluation Metrics – Assessing model accuracy with RMSE & R².
